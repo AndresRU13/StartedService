@@ -13,6 +13,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StartedService"
         tools:targetApi="31">
+        <service
+            android:name=".DelayedMessageService"
+            android:exported="false">
+        </service>
+
         <activity
             android:name=".MainActivity"
             android:exported="true">

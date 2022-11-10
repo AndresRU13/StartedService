@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StartedService</string>
+    <string name="question">Cual es el secreto de la comedia</string>
+    <string name="response">Momento!</string>
 </resources>
